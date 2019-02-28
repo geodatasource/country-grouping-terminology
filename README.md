@@ -1,13 +1,14 @@
 # Country Grouping Terminology
-This list contains the grouping terminology grouped based on the country code (ISO3166-1). The group name includes APAC, EALA, OPEC, etc.
+This list contains the grouping terminology grouped based on the country code (ISO3166-1). The group code includes APAC, EALA, OPEC, etc.
 
 ## Data fields
 Below are the fields supported in the Country Grouping Terminology List.
 
 |Field Name|Description|
 |---|---|
-|group_name|Two-character country code based on ISO 3166.|
-|country_code|Name of countries group.|
+|group_code|Code of countries group.|
+|group_name|Name of countries group.|
+|country_code|Two-character country code based on ISO 3166.|
 
 
 ## License
